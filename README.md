@@ -66,8 +66,8 @@ python fibonacci.py
 
 ## Construido con 🛠️
 
-* [Python](https://www.python.org/) -  El framework web usado
-* [Git](https://getbootstrap.com/) - Controlador de Versiones
+* [Python](https://www.python.org/) -  Python
+* [Git](https://github.com/) - Controlador de Versiones
 
 
 
